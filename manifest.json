@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"BioPls Pro™ (Official) Get 80% Off + Free Shipping",
+  "short_name":"BioPls Pro™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"BioPls Pro is a power-packed natural dietary supplement that helps in losing weight with the help of its unique formulation.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
